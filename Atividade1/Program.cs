@@ -50,7 +50,7 @@ namespace Atividade1
             {
                 menor = participante4;
             }
-            Console.Write("Informe a idade do segundo participante: ");
+            Console.Write("Informe a idade do quinto participante: ");
             participante5 = Convert.ToDouble(Console.ReadLine());
             if (participante5 > maior)
             {
